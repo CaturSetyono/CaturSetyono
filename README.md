@@ -12,9 +12,9 @@
  
  🔭 I'm a student at the University of Digital Technology Indonesia
  
- 🌱 I’m currently learning **Javascript,Node.Js,React**
+ 🌱 I’m currently learning **Javascript,Node.Js,React,Java**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java** or about anything <a href="https://www.instagram.com/notyourfriend_id/"><span>klik disini</span></a>
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,mysql" /><br>
 </div>
 
 <br/>
