@@ -37,7 +37,7 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
   <a href="mailto:catursetyono542@gmail.com">
     <img alt="Email" src="https://img.icons8.com/doodle/38/gmail-new.png"/>
   </a>
-  <a href="https://www.instagram.com/catur.setyono">
+  <a href="https://www.instagram.com/tyodev.id/">
     <img alt="Instagram" src="https://img.icons8.com/doodle/38/instagram--v1.png"/>
   </a>
 </p>
