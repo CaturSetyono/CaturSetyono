@@ -18,8 +18,8 @@
 
 Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building clean and responsive user interfaces using **React.js** and **Tailwind CSS**.
 
-- 🎓 Currently studying Information Systems Accounting (3rd semester)
-- 💼 Built a promotional & registration website for a student organization using React.js
+- 🎓 Currently studying Information Systems Accounting (4th semester)
+- 💼 Built a web for any solution
 - 🎨 Enjoys content creation, video editing, and graphic design at a basic level
 - 🌱 Always learning about new tech in frontend and creative digital production
 
