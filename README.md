@@ -79,7 +79,7 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 </p>
 
 <!-- GitHub Streak Stats -->
-<p>
+<p align="center">
  <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=CaturSetyono&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69" alt="GitHub Streak" />
 </p>
 
