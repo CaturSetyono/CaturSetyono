@@ -79,8 +79,9 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CaturSetyono&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Streak" />
+  <img width="460" height="150" src="https://streak-stats.demolab.com?user=CaturSetyono&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=compact" alt="Streak" />
 </p>
+
 
 
 ---
