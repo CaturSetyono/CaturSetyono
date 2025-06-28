@@ -80,7 +80,11 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 <!-- GitHub Streak Stats -->
 
  
-![](https://nirzak-streak-stats.vercel.app/?user=catursetyono&theme=dark&hide_border=false)<br/>
+<div align = "center">
+ 
+ ![](https://nirzak-streak-stats.vercel.app/?user=catursetyono&theme=dark&hide_border=false)<br/>
+ 
+</div>
 
 
 
