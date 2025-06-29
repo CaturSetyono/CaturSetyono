@@ -82,7 +82,7 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
  
 <div align = "center">
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CaturSetyono&theme=tokyonight)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats)
  
 </div>
 
