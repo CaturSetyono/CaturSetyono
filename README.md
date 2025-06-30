@@ -79,9 +79,11 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 <!-- GitHub Streak Stats -->
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=catursetyono&theme=tokyonight&hide_border=false)
-
+<div align="center">
  
+ ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=catursetyono&theme=tokyonight&hide_border=false)
+
+ </div>
 
 
 
