@@ -81,7 +81,7 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 <div align="center">
  
- ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=catursetyono&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-blush-three.vercel.app?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats)
 
  </div>
 
