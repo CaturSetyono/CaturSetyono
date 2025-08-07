@@ -80,10 +80,10 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 <!-- GitHub Streak Stats -->
 
 <div align="center">
- 
-[![GitHub Streak](https://github-readme-streak-stats-blush-three.vercel.app?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats)
 
- </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
 
 
 
