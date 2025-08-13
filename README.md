@@ -93,7 +93,7 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 > I believe technology can empower people—when used with the right intention.  
 > Let's build something that matters, one line of code at a time 🚀
-> Let's Gooooo!
+> Let's Goooooooo!
 
 ---
 
