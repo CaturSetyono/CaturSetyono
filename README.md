@@ -81,7 +81,8 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1user=catursetyono)](https://git.io/streak-stats)
 
 </div>
 
