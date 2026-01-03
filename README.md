@@ -82,8 +82,9 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 <div align="center">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats-1-mu.vercel.app?user=CaturSetyono&theme=tokyonight)](https://git.io/streak-stats)
-
 </div>
 
 
