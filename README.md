@@ -68,23 +68,26 @@ Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building cl
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaturSetyono&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+ 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight)
+
+</div>
 
 <!-- Most Used Languages -->
-<p align="center">
-  <img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaturSetyono&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+ 
+ ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight)
+ 
+</div>
 
 <!-- GitHub Streak Stats -->
 
 <div align="center">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats-1-mu.vercel.app?user=CaturSetyono&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 
