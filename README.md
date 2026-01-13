@@ -39,7 +39,7 @@ I build clean and responsive web interfaces. Currently in my final semester stud
 <img src="https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" height="165"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="49%" height="165"/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=CaturSetyono&theme=tokyonight&hide_border=true"  width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=CaturSetyono&theme=tokyonight&hide_border=true"  width="98%"/>
 
 </div>
 
