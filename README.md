@@ -1,104 +1,52 @@
-![Profile Views](https://komarev.com/ghpvc/?username=CaturSetyono&style=flat&color=blue)
-
-<h1 align="center">Hi there! I'm Catur Setyono <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=26&color=00ADB5&center=true&vCenter=true&width=900&height=60&lines=Frontend+Web+Developer;React.js+%2B+Tailwind+Enthusiast;Student+of+Accounting+Information+Systems;Creative+Content+Creator)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&animation=fadeIn" width="100%"/>
+
+# Catur Setyono
+![](https://komarev.com/ghpvc/?username=CaturSetyono&style=flat-square&color=6366f1)
+
+**Frontend Developer** · React.js · Tailwind CSS
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catursetyono/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:catursetyono542@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tyodev.id/)
 
 </div>
 
-<p align="center">
- <img height="250" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-</p>
+---
+
+### About
+
+I build clean and responsive web interfaces. Currently in my final semester studying Accounting Information Systems while exploring frontend development and creative digital content.
 
 ---
 
-## 🧑‍💻 About Me
+### Tech
 
-Hi! I'm **Catur**, a passionate **Frontend Web Developer** who loves building clean and responsive user interfaces using **React.js** and **Tailwind CSS**.
-
-- 🎓 Currently studying Information Systems Accounting (last semester)
-- 🎨 Enjoys content creation, video editing, and graphic design at a beginer level
-- 🌱 Always learning about new tech in frontend and creative digital production
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/catursetyono/">
-    <img alt="LinkedIn" src="https://img.icons8.com/doodle/40/linkedin--v2.png"/>
-  </a>
-  <a href="https://github.com/CaturSetyono">
-    <img alt="GitHub" src="https://img.icons8.com/doodle/40/github--v1.png"/>
-  </a>
-  <a href="mailto:catursetyono542@gmail.com">
-    <img alt="Email" src="https://img.icons8.com/doodle/38/gmail-new.png"/>
-  </a>
-  <a href="https://www.instagram.com/tyodev.id/">
-    <img alt="Instagram" src="https://img.icons8.com/doodle/38/instagram--v1.png"/>
-  </a>
-</p>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend Development
-
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
- 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight)
-
-</div>
-
-<!-- Most Used Languages -->
-<div align="center">
- 
- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight)
- 
-</div>
-
-<!-- GitHub Streak Stats -->
+### Stats
 
 <div align="center">
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=catursetyono&theme=tokyonight)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats-1-mu.vercel.app?user=CaturSetyono&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=catursetyono&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=catursetyono&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="49%" height="165"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=CaturSetyono&theme=tokyonight&hide_border=true"  width="100%"/>
 
 </div>
 
-
-
 ---
 
-## 🎯 Fun Fact
+<div align="center">
 
-> I believe technology can empower people—when used with the right intention.  
-> Let's build something that matters, one line of code at a time 🚀
-> Let's Goookk!
+_Building things that matter, one line at a time._
 
----
-
+</div>
