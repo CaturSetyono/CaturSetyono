@@ -47,6 +47,6 @@ I build clean and responsive web interfaces. Currently in my final semester stud
 
 <div align="center">
 
-_Building things that matter, one line at a timee. lets gooooo
+_Building things that matter, one line at a timee. lets go
 
 </div>
