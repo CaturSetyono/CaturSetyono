@@ -17,7 +17,7 @@
 
 ### About
 
-I build clean and responsive web interfaces. Currently in my final semester studying Accounting Information Systems while exploring frontend development and creative digital content.
+I build clean and responsive web interfaces. Currently in my final semester studying Accounting Information Systems while exploring frontend development and creative digital content on social media.
 
 ---
 
